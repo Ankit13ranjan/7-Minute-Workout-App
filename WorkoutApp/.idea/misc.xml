@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-anydpi/ic_history.xml" value="0.36615384615384616" />
+        <entry key="app/src/main/res/drawable-v24/drawable_units_tab_text_color_selector.xml" value="0.36615384615384616" />
+        <entry key="app/src/main/res/drawable/bmi_screen.xml" value="0.36615384615384616" />
+        <entry key="app/src/main/res/drawable/circular_background_item.xml" value="0.3212962962962963" />
+        <entry key="app/src/main/res/drawable/circular_progress_bar.xml" value="0.3212962962962963" />
+        <entry key="app/src/main/res/drawable/circular_progress_gray.xml" value="0.3212962962962963" />
+        <entry key="app/src/main/res/drawable/drawable_radio_group_tab_background.xml" value="0.36615384615384616" />
+        <entry key="app/src/main/res/drawable/drawable_units_tab_selector.xml" value="0.36615384615384616" />
+        <entry key="app/src/main/res/drawable/ic_action_done.xml" value="0.36615384615384616" />
+        <entry key="app/src/main/res/drawable/ic_background_passed.xml" value="0.36615384615384616" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3212962962962963" />
+        <entry key="app/src/main/res/drawable/item_circular_color_accent_border.xml" value="0.36615384615384616" />
+        <entry key="app/src/main/res/drawable/item_circular_color_gray_background.xml" value="0.36615384615384616" />
+        <entry key="app/src/main/res/drawable/item_circular_shape.xml" value="0.371875" />
+        <entry key="app/src/main/res/drawable/item_circular_thin_color_background.xml" value="0.36615384615384616" />
+        <entry key="app/src/main/res/drawable/ripple_activity_color.xml" value="0.3212962962962963" />
+        <entry key="app/src/main/res/layout/activity_bmi_calculate_result.xml" value="0.340625" />
+        <entry key="app/src/main/res/layout/activity_bmiactivity.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_exercise.xml" value="0.27685185185185185" />
+        <entry key="app/src/main/res/layout/activity_finish.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/activity_history.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.27685185185185185" />
+        <entry key="app/src/main/res/layout/dialog_custom_back_confirmation_bar.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/item_exercise_status.xml" value="0.35572916666666665" />
+        <entry key="app/src/main/res/layout/item_history_row.xml" value="0.35572916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
