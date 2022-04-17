@@ -1,4 +1,4 @@
-# 7-Minute-Workout-App
+# Workout-App
 
 
 
